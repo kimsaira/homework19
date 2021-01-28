@@ -1,0 +1,1 @@
+console.log("index.js is connected to index.html")
